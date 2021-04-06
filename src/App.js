@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import SearchBar from './components/SearchBar';
 import Recipes from './components/Recipes';
-
+//hello food//
 class App extends React.Component {
   constructor(props){
     super(props);
